@@ -1,3 +1,3 @@
 Doodle Jump Game
-You Can Download 
-https://github.com/Harindulk/Doodle-Jump/archive/Harindulk.zip
+Download 
+https://github.com/Harindulk/Doodle-Jump/raw/Harindulk/Doodle%20Jump.zip
