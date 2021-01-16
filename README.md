@@ -1,2 +1,2 @@
 Doodle Jump Game
-https://github.com/Harindulk/Doodle-Jump/raw/Harindulk/Doodle%20Jump.zip
+https://github.com/Harindulk/Doodle-Jump/archive/Harindulk.zip
